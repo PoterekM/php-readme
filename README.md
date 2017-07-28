@@ -41,7 +41,7 @@ _You must configure Apache and MySQL to use the correct port numbers in MAMP._
 
 
 ### Access Project Repository & Open Project
-* Open GitHub site on your browser: https://github.com/maxobaxo/moes
+* Open GitHub site on your browser: https://github.com/PoterekM/php-readme.git
 * Select the green dropdown menu to clone this repository.
 * Copy the link for the GitHub repository.
 ![screenshot of port number configuration](web/img/git_clone.png)
@@ -49,7 +49,7 @@ _You must configure Apache and MySQL to use the correct port numbers in MAMP._
 * In Terminal, perform the following steps:
     * type 'cd desktop' and press enter
     * type 'git clone' then paste the repository link, and press enter
-    * type 'cd moes' to access the path on your computer
+    * type 'cd php-readme' to access the path on your computer
     * type 'composer install' in terminal to download dependencies
 * In MAMP, perform the following steps:
     * Select the Start Servers option.
@@ -81,8 +81,6 @@ _You must configure Apache and MySQL to use the correct port numbers in MAMP._
 
 
 
-
-
 ## Technologies Used
 
 * PHP
@@ -100,10 +98,10 @@ _Thanks to Epicodus for providing some of the MAMP installation instructions at 
 
 
 ## Support and contact details
-_Please feel free to contact me directly via e-mail at poterekm@gmail.com if you have any questions, comments, ideas, or feedback. Also, I invite you to feel empowered to make any changes to this repository by forking it and making changes accordingly._
+_Please feel free to contact me directly via e-mail at poterekm@gmail.com if you have any questions, comments, ideas, or feedback. Also, I invite you to feel empowered to make any changes to this repository by forking it and making changes accordingly. Unfortunately, I had a difficult time downloading MAMP on my computer so the best I can say to you is what you always hear when a developer doesn't know something: "I'm sure you'll figure it out!"_
 
 ## Known Bugs
-* This program has yet to be tested on non-programmers to determine if it is user friendly for a variety of users.
+* This program has yet to be tested on non-programmers to determine if it is user friendly for a variety of users with varied computer experience and knowledge.
 
 ### License
 
